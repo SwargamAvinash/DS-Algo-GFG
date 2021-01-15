@@ -1,4 +1,4 @@
-/*class Node
+class Node
 {
 	int data;
 	Node next;
@@ -8,7 +8,7 @@
 	    this.data = data;
 	    next = prev = null;
 	}
-}*/
+}
 
 class GfG
 {
